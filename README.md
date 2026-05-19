@@ -1,4 +1,4 @@
-Fairness
+ SOLPUMP Fairness
 import { createHmac } from "crypto";
 
 const serverSeed = "REVEALED_SERVER_SEED";
